@@ -26,11 +26,3 @@ This application allows users to upload `.xlsx` files, validate the data, displa
 
 ---
 
-## 📦 Installation
-
-### **1️⃣ Clone the repository**
-
-```sh
-git clone <your-repo-url>
-cd your-project-folder
-```
